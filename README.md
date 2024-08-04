@@ -1,4 +1,4 @@
-# Shopping experience web application
+# Shopping experience web app
 Hashtag Hydration is a shopping web app. Users can add items to cart or wishlist, moving items from the wishlist when they want to add to cart. Your cart will be saved when you logout. You can modify quantities of items, browse available products and checkout to place an order using integrated Stripe. As an Admin account you can manage inventories, users, and orders. 
 
 <img width="600" alt="Screen Shot 2022-09-28 at 12 48 16 PM" src="https://user-images.githubusercontent.com/68308236/192842414-4671e066-e686-4af6-8285-abeaad78c3ed.png">
